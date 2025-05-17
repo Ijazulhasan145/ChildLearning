@@ -1,0 +1,5 @@
+Django
+torch
+transformers
+speechrecognition
+gtts
